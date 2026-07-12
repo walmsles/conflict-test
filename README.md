@@ -1,3 +1,5 @@
 # conflict-test
 
-COnflict change
+Change from modify branch
+
+Another change from modifier branch
