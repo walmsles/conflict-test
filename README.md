@@ -1,3 +1,3 @@
 # conflict-test
 
-Change from modify branch
+COnflict change
